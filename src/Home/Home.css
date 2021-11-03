@@ -1,0 +1,14 @@
+.width-table {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.form-groups {
+  margin-bottom: 12px;
+}
+
+.wrapper-btn-add {
+  margin-bottom: 12px;
+  display: flex;
+  justify-content: flex-end;
+}

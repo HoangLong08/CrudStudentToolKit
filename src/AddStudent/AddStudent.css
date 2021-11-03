@@ -1,0 +1,24 @@
+.wrapper-add {
+  background-color: antiquewhite;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-add {
+  width: 500px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.wrapper-btn-back {
+  margin-bottom: 12px;
+}
+
+.wrapper-btn-add-submit {
+  display: flex;
+  justify-content: flex-end;
+}
